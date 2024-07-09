@@ -7,6 +7,7 @@ public class email {
 	private String lastName;
 	private String department;
 	private String randEmail;
+	private String userEmail;
 	
 	Scanner in = new Scanner(System.in);
 	
